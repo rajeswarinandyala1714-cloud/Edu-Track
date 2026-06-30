@@ -77,17 +77,14 @@ Allows searching student results using Student ID or Name.
 Provides confirmation before logging out or exiting the application.
 
 ---
-You can use the following headings with professional emojis in your README or project documentation:
 
-🎓 EduManage – Education Management System
-
-📖 1. Introduction
+📖 Introduction
 
 EduManage is a responsive Education Management System developed using HTML5, CSS3, and JavaScript. The application is designed to simplify educational administration by providing a centralized platform for managing courses, student records, and examination results. It features a modern dashboard, intuitive navigation, and responsive design, making it easy to use on desktops, tablets, and mobile devices.
 
 ---
 
-🎯 2. Objectives
+🎯 Objectives
 
 The primary objectives of this project are:
 
@@ -101,7 +98,7 @@ The primary objectives of this project are:
 
 ---
 
-🏗️ 3. System Architecture
+🏗️ System Architecture
 
                 User
                   │
@@ -130,7 +127,7 @@ The primary objectives of this project are:
 
 ---
 
-🗄️ 4. Database Design
+🗄️ Database Design
 
 The project uses JavaScript arrays as a temporary data store.
 
@@ -163,7 +160,7 @@ Remarks| Faculty remarks
 
 ---
 
-🔄 5. Project Flow
+🔄  Project Flow
 
 Start
    │
@@ -194,6 +191,6 @@ Start
 
 ---
 
-✅ 6. Conclusion
+✅ Conclusion
 
 EduManage is a responsive and user-friendly Education Management System that demonstrates the practical implementation of HTML5, CSS3, and JavaScript. It enables efficient management of courses, students, and examination results through an intuitive dashboard and organized modules. The project showcases front-end web development skills, CRUD operations, dynamic data handling, and responsive design. Future enhancements such as database integration, user authentication, attendance tracking, and report generation can make the system suitable for real-world educational institutions.
